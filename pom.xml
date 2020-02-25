@@ -9,8 +9,8 @@
 	<description>This service is used for registering and authenticating the users.</description>
 
 	<parent>
-		<groupId>com.ibm</groupId>
-		<artifactId>marketingoffersadministration</artifactId>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.0</version>
 	</parent>
 	<properties>
